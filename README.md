@@ -24,28 +24,7 @@ The large integer ADT supports operations such as addition, subtraction, multipl
 - **Arithmetic Operations**: Arithmetic operations are performed digit by digit, considering carries and borrow operations.
 - **Handling Large Factorials**: The program addresses the challenge of calculating large factorials by employing efficient algorithms for multiplication and storage.
 
-## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine:
-    ```
-    git clone https://github.com/your-username/big-integers.git
-    ```
-
-2. **Navigate to the Directory**: Change into the directory containing the program files:
-    ```
-    cd big-integers
-    ```
-
-3. **Run the Program**: Execute the Python script to start the program:
-    ```
-    python big_integers.py
-    ```
-
-4. **Follow the Instructions**: Input an integer value when prompted. The factorial calculation will be displayed, and you can choose to calculate another factorial or exit the program.
-
-## Dependencies
-
-This program requires Python 3.x to run.
 
 ## Contributing
 
